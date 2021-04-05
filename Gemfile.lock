@@ -11,7 +11,7 @@ GEM
       activejob (= 5.2.3)
       mail (~> 2.5, >= 2.5.4)
       rails-dom-testing (~> 2.0)
-    actionpack (5.2.3)
+    actionpack (>= 5.2.4.3)
       actionview (= 5.2.3)
       activesupport (= 5.2.3)
       rack (~> 2.0)
@@ -133,7 +133,7 @@ GEM
     rails-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
     railties (5.2.3)
-      actionpack (= 5.2.3)
+      actionpack (>= 5.2.4.3)
       activesupport (= 5.2.3)
       method_source
       rake (>= 0.8.7)
